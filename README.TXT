@@ -8,3 +8,13 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 3.
+
+Part 3
+
+Q38. Done
+
+Q39. Done
+
+Q40. Done
+
+Q41. 
